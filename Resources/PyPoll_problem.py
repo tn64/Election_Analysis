@@ -1,3 +1,5 @@
+#See problem with line 64
+
 # The data we need to retrieve
 # 1. The total number of votes cast
 # 2. A complete lisst of candidates who received votes
@@ -56,7 +58,7 @@ for candidate_name in candidate_votes:
     #Retrieve vote count of a candidate
     votes = candidate_votes[candidate_name]
     #Calculate the percentage of votes
-    vote_percentage = (votes) / (total_votes) * 100
+    vote_percentage = float(votes) / float(total_votes) * 100
 
     #Determine winning vote count and candidate
     #Determine if the votes is greater than the winning count
