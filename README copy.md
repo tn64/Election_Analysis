@@ -25,6 +25,7 @@ After setting a dictionary and list to hold the total votes and candidate names 
 ```
 
 This povided the following result for the total number of votes cast in the election:
+
 <img src=https://github.com/tn64/Election_Analysis/blob/main/Resources/total_votes.png>
 
 - The number of votes and the percentage of total votes for each county in the precinct.
