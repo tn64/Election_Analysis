@@ -84,7 +84,7 @@ Finally, we were able to determine which candidate won the election, how many vo
         f"Winning Percentage: {winning_percentage:.1f}%\n"
         f"-------------------------\n")
     print(winning_candidate_summary)
-    ```
+```
 ## Election-Audit Summary: 
 As demonstrated, the code written for this particular Board of Elections was able to provide the requested information from the provided .csv file. We propose that the Board of Elections (as well as other county boards) purchase this code to use in future elections. Additionally, this script could be modified for other elections as well.
 
