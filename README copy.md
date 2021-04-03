@@ -1,3 +1,5 @@
+<!-- photo below from Photo by Element5 Digital from Pexels-->
+
 <img src="https://github.com/tn64/Election_Analysis/blob/main/Resources/vote.png">
 
 # Election Analysis
